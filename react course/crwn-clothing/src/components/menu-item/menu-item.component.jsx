@@ -1,4 +1,4 @@
-import react from'react';
+import React from'react';
 import './menu-item.style.scss'
 
 const MenuItem=({title, imageUrl, size})=>(
