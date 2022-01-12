@@ -1,0 +1,25 @@
+ git remote remove origin
+ 
+git remote add origin git@github.com:33kumarram/crwn-clothing.git
+ 
+yarn add gh-pages
+----------------------------------------------------            
+( edit package.json
+add(at top of page ) 
+   "homepage": "http://33kumarram.github.io/crwn-clothing",
+
+(in scripts)
+"predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
+)
+----------------------------------------------------
+
+ yarn deploy
+
+ git add -A
+
+ git commit -m "adding files for git hub pages"
+
+  git push --set-upstream origin main
+--------------------------------------------------------------------------------------------------------
+yarn add firebase
