@@ -7,9 +7,10 @@
  }
 
  .pica {
-   width: 2000px;
-   height: 600px;
+   width: 100%;
    border-radius: 10px;
+   justify-content: center;
+   
 
  }
  .right-arrow{

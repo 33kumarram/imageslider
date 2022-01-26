@@ -23,3 +23,6 @@ add(at top of page )
   git push --set-upstream origin main
 --------------------------------------------------------------------------------------------------------
 yarn add firebase
+..
+yarn add reselect
+
