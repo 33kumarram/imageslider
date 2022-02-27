@@ -2,3 +2,6 @@ error -"You are running create-react-app 4.0.3 which is behind the latest releas
 
 solution - npx clear-npx-cache
 ----------------------------------------------------
+
+error- .map is not a function
+-- map fuction only works on a array

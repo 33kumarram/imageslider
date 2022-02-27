@@ -1,0 +1,11 @@
+.my {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.searchfield{
+  display: flex;
+  justify-content: center;
+  height: 20px;
+  
+}

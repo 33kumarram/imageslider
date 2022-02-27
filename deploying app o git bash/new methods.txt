@@ -1,0 +1,3 @@
+to nevigate to external url
+
+                       onClick={()=>window.location.href = 'https://33kumarram.github.io/shopapp/'

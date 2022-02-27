@@ -1,0 +1,36 @@
+.App{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  width: 400px;
+ 
+}
+
+.btn{
+  display: flex;
+  border: 1px solid gray;
+  margin: 5px;
+  min-width: 100px;
+  height: 40px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.btn:hover{
+  border: 2px solid black;
+}
+
+.result{
+  display: flex;
+  width: 98%;
+  min-width: 100px;
+  height: 100px;
+  border: 2px solid grey;
+  border-radius: 15px;
+  align-items: center;
+  justify-content: center;
+  margin: 30px;
+}

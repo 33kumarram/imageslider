@@ -1,0 +1,26 @@
+.continer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .form{
+        display: flex;
+        .btn{
+            display: flex;
+            border: 1px solid gray;
+            padding: 2px 5px;
+            &:hover{
+                background-color: gray;
+                color: white;
+            }
+
+        }
+    }
+    .post{
+        
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}

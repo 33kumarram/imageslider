@@ -1,0 +1,11 @@
+
+connect - npm add react-redux
+
+logger - npm add redux-logger  
+
+persistStore- npm add persist-redux        
+
+to create a new branch-
+                    git checkout -b test
+to commit to a branch-
+                    git push origin test
